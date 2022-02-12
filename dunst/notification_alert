@@ -1,0 +1,2 @@
+#!/usr/bin/fish
+paplay /home/roshan/.local/share/my_audio/notification_alert.wav

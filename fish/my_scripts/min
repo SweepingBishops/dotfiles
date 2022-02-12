@@ -1,0 +1,3 @@
+#!/bin/fish
+min
+cp $HOME/.config/Min/sessionTemplate.json $HOME/.config/Min/sessionRestore.json
